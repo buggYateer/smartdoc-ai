@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+alembic
+python-multipart
+python-dotenv
+google-genai
+pydantic
